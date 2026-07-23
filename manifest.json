@@ -1,0 +1,27 @@
+{
+  "name": "د. مينا موريس - أمراض الباطنة والجهاز الهضمي",
+  "short_name": "د. مينا موريس",
+  "description": "التطبيق الطبي الرسمي للعيادة - حجز واستشارات ومتابعة طبية",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d9488",
+  "theme_color": "#0d9488",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
